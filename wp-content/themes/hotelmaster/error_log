@@ -1,0 +1,28 @@
+[16-Nov-2019 01:51:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[16-Nov-2019 15:14:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[17-Nov-2019 21:24:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[18-Nov-2019 11:04:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[13-Dec-2019 02:31:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[14-Dec-2019 03:12:10 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[15-Dec-2019 02:41:05 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[16-Dec-2019 03:37:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[11-Jan-2020 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[13-Jan-2020 23:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[14-Jan-2020 19:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[16-Jan-2020 01:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[17-Apr-2020 02:51:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[17-Apr-2020 21:57:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[24-Apr-2020 22:03:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
+[25-Apr-2020 17:35:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/winsider/hotelsiestabd.com/wp-content/themes/hotelmaster/404.php on line 6
